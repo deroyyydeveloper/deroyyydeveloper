@@ -1,8 +1,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-YAML              10 mins         ████████████████▒░░░░░░░░   65.08 %
-Java Properties   5 mins          ████████▓░░░░░░░░░░░░░░░░   34.92 %
+YAML              9 mins          ███████████████▒░░░░░░░░░   61.03 %
+Java Properties   5 mins          █████████▓░░░░░░░░░░░░░░░   38.97 %
 ```
 
 <!--END_SECTION:waka-->
